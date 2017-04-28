@@ -1,0 +1,129 @@
+﻿QTextEdit
+{
+	border:10px;
+	background-color:rgba(43,45,31,255);
+}
+
+QTextEdit[desription="true"]
+{
+	border:10px;
+	border-image:none;
+	background-color:rgba(255,255,255,255);
+}
+
+QTextEdit QScrollBar:vertical
+{
+	margin:22px 0 22px 0;
+}
+
+QLineEdit#chat_edit{  
+    background-color: rgba(20,20,20,255);  
+    color: white;  
+    border: 10px transparent;  
+    height: 20px;  
+    border-image: url(image/system/border.png)10 10 10 10 ;  
+ }  
+
+QMenu[private_pile="true"]{  
+    background-color: rgba(43,63,53,200);  
+    border-radius: 1px;  
+    color: white;  
+}  
+
+QPushButton[private_pile="true"]{  
+    background-color: rgba(43,63,53,200);  
+    border-radius: 1px;  
+    color: white;  
+}  
+  
+QPushButton[game_control="true"]{  
+    border: 0px solid gray;  
+    font: 12px;  
+    border-radius: 5px;  
+    padding: 6px 12px 6px 12px;  
+}  
+  
+QPushButton#pause{  
+    background-image: url(image/system/button/pause.png);  
+}  
+  
+QPushButton#play{  
+    background-image: url(image/system/button/play.png);  
+}  
+  
+QPushButton#slow-down{  
+    background-image: url(image/system/button/slow-down.png);  
+}  
+  
+QPushButton#speed-up{  
+    background-image: url(image/system/button/speed-up.png);  
+}  
+  
+QPushButton#uniform{  
+    background-image: url(image/system/button/uniform.png);  
+}  
+  
+#skill_bar_container QPushButton{  
+    background-image: url(image/system/button/back.png);  
+        border: 1px solid gray;  
+        border-radius: 4px;  
+    color: yellow;  
+    font: 12px;  
+    padding: 6px 12px 6px 12px;  
+}  
+#skill_bar_container QPushButton:disabled{  
+    background-image: url(image/system/button/back_shade.png);  
+        border-radius: 4px;  
+    color: white;  
+    font: 12px;  
+}  
+#skill_bar_container QCheckBox{  
+    border: 1px solid gray;  
+        border-radius: 4px;  
+    color: yellow;  
+    font: 12px;  
+    padding: 1px 12px 1px 8px;  
+}  
+
+#skill_bar_container QComboBox
+{   
+    border: 1px solid gray;  
+    border-radius: 3px;  
+    color: white;  
+    padding: 1px 18px 1px 3px;  
+}  
+#skill_bar_container QComboBox:on{  
+    padding-left: 4px;  
+    padding-top: 3px;  
+}  
+#skill_bar_container QComboBox::drop-down{  
+    border-bottom-right-radius: 3px;  
+    border-left-color: darkgray;  
+    border-left-style: solid;  
+    border-left-width: 1px;  
+    border-top-right-radius: 3px;  
+    subcontrol-origin: padding;  
+    subcontrol-position: top right;  
+    width: 15px;  
+}  
+#skill_bar_container QComboBox::down-arrow:on{  
+    left: 1px;  
+    top: 1px;  
+}  
+
+/**********************************QGroupBox设置边框后字体下沉设置********************************************************/
+QGroupBox {
+ 
+    border-width:1px;   //线的粗细
+   border-style:solid;
+  border-color:lightGray;   //颜色，
+  margin-top: 0.5ex;  //文字在方框中位置的偏离度
+}
+QGroupBox::title {
+	
+     subcontrol-origin: margin;
+     subcontrol-position: top left;
+   left:25px;       //线的偏离度
+     margin-left: 0px;
+     padding:0 1px;   //文字在方框中位置的偏离度
+}

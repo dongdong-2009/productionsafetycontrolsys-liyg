@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>OperSheet</class>
+ <widget class="QWidget" name="OperSheet">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>854</width>
+    <height>632</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QWidget#OperSheet
+{
+	
+	background-color: rgb(36, 36, 44);
+}</string>
+  </property>
+  <widget class="QToolButton" name="closeBtn">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>10</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QToolButton#closeBtn
+{
+	border-image: url(:/image/work_close  (1).png);
+}</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>38</y>
+     <width>831</width>
+     <height>581</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout_2">
+    <item>
+     <layout class="QVBoxLayout" name="verticalLayout" stretch="1,1,1,1,1">
+      <property name="spacing">
+       <number>0</number>
+      </property>
+      <item>
+       <widget class="QLabel" name="label_worktitle">
+        <property name="styleSheet">
+         <string notr="true">QLabel#label_worktitle
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgb(0, 0, 0);
+	font:  14px &quot;Microsoft YaHei UI&quot;;
+	color: rgb(255, 255, 255);
+}
+</string>
+        </property>
+        <property name="lineWidth">
+         <number>1</number>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="label_workplace">
+        <property name="styleSheet">
+         <string notr="true">QLabel#label_workplace
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgb(0, 0, 0);
+	font: 14px &quot;Microsoft YaHei UI&quot;;
+	color: rgb(255, 255, 255);
+}
+</string>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <layout class="QHBoxLayout" name="horizontalLayout" stretch="1,1,1,2">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="QLabel" name="label_1">
+          <property name="styleSheet">
+           <string notr="true">QLabel#label_1
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgb(0, 0, 0);	
+	color: rgb(255, 255, 255);
+	font: 14px &quot;Microsoft YaHei UI&quot;;
+}
+</string>
+          </property>
+          <property name="text">
+           <string>责任人</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_dutyperson">
+          <property name="styleSheet">
+           <string notr="true">font:  14px &quot;Microsoft YaHei UI&quot;;
+color: rgb(255, 255, 255);
+border-width: 1px;
+border-style: solid;
+border-color: rgb(0, 0, 0);</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_11">
+          <property name="styleSheet">
+           <string notr="true">QLabel#label_11
+{
+
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgb(0, 0, 0);	
+	color: rgb(255, 255, 255);
+	font: 14px &quot;Microsoft YaHei UI&quot;;
+}
+</string>
+          </property>
+          <property name="text">
+           <string>计划起止时间</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_plantime">
+          <property name="styleSheet">
+           <string notr="true">QLabel#label_plantime
+{
+	font: 14px &quot;Microsoft YaHei UI&quot;;
+	color: rgb(255, 255, 255);
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgb(0, 0, 0);
+}
+</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <layout class="QHBoxLayout" name="horizontalLayout_2" stretch="1,1,1,2">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="QLabel" name="label_2">
+          <property name="styleSheet">
+           <string notr="true">QLabel#label_2
+{
+
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgb(0, 0, 0);
+	font: 75 14px &quot;Microsoft YaHei UI&quot;;
+	color: rgb(255, 255, 255);	
+}
+</string>
+          </property>
+          <property name="text">
+           <string>操作人</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_operperson">
+          <property name="styleSheet">
+           <string notr="true">QLabel#label_operperson
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgb(0, 0, 0);
+	font: 14px &quot;Microsoft YaHei UI&quot;;
+	color: rgb(255, 255, 255);
+}
+</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_22">
+          <property name="styleSheet">
+           <string notr="true">QLabel#label_22
+{
+
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgb(0, 0, 0);
+	font: 75 14px &quot;Microsoft YaHei UI&quot;;
+	color: rgb(255, 255, 255);
+}
+</string>
+          </property>
+          <property name="text">
+           <string>实际起止时间</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_realtime">
+          <property name="styleSheet">
+           <string notr="true">QLabel#label_realtime
+{
+	font:  14px &quot;Microsoft YaHei UI&quot;;
+	color: rgb(255, 255, 255);
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgb(0, 0, 0);
+}
+</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <layout class="QHBoxLayout" name="horizontalLayout_3" stretch="1,4">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="QLabel" name="label_3">
+          <property name="styleSheet">
+           <string notr="true">QLabel#label_3
+{
+
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgb(0, 0, 0);
+	font: 75 14px &quot;Microsoft YaHei UI&quot;;
+	color: rgb(255, 255, 255);
+}</string>
+          </property>
+          <property name="text">
+           <string>安全告警记录</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_alarmrecord">
+          <property name="styleSheet">
+           <string notr="true">QLabel#label_alarmrecord
+{
+	font: 14px &quot;Microsoft YaHei UI&quot;;	
+	color: rgb(255, 255, 255);
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgb(0, 0, 0);
+}
+</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+          </property>
+          <property name="margin">
+           <number>20</number>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <widget class="QTableWidget" name="tableWidget_opersheet">
+      <property name="styleSheet">
+       <string notr="true">background-color: rgb(36, 36, 44);</string>
+      </property>
+      <property name="rowCount">
+       <number>9</number>
+      </property>
+      <property name="columnCount">
+       <number>4</number>
+      </property>
+      <row/>
+      <row/>
+      <row/>
+      <row/>
+      <row/>
+      <row/>
+      <row/>
+      <row/>
+      <row/>
+      <column/>
+      <column/>
+      <column/>
+      <column/>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

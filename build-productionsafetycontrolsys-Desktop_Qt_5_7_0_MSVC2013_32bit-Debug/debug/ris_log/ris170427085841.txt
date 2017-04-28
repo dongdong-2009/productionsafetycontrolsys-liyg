@@ -1,0 +1,145 @@
+08:58:41 HostName = 10.232.31.156
+08:58:41 HostPort = 3306
+08:58:41 UserName = root
+08:58:41 UserPassword = root
+08:58:41 DbType = QMYSQL
+08:58:41 Databasename = wsmc
+08:58:42 欢迎进入大唐湘潭电厂作业安全智能管控系统!
+08:58:42 大唐湘潭电厂作业安全智能管控系统数据库连接失???请检查数据库配置文件!
+08:58:43 deleteAlarmInfo open database is error!
+08:58:43 deleteAlarmInfo open database is error!
+08:58:43 deleteAlarmInfo open database is error!
+08:58:43 Updata_Area_List open database is error!
+08:58:43 Door_State open database is error
+08:58:43 TwoTicketExecMonitor open database is error!
+08:58:43 HasSignPersonNum open database is error!
+08:58:43 NoSignPersonNum open database is error!
+08:58:43 OperatingWorkNum open database is error!
+08:58:43 NoStartWorkNum open database is error!
+08:58:44 Updata_Area_List open database is error!
+08:58:44  Get_Area_ID open database is error.
+08:58:44 Updata_tableWidget_Alarm open database is error
+08:58:44 Updata_tableWidget_Work open database is error
+08:58:44 Door_State open database is error
+08:58:45 Updata_Area_List open database is error!
+08:58:45  Get_Area_ID open database is error.
+08:58:45 Updata_tableWidget_Alarm open database is error
+08:58:45 Updata_tableWidget_Work open database is error
+08:58:45 Door_State open database is error
+08:58:46 Updata_Area_List open database is error!
+08:58:46  Get_Area_ID open database is error.
+08:58:46 Updata_tableWidget_Alarm open database is error
+08:58:46 Updata_tableWidget_Work open database is error
+08:58:46 Door_State open database is error
+08:58:47 Updata_Area_List open database is error!
+08:58:47  Get_Area_ID open database is error.
+08:58:47 Updata_tableWidget_Alarm open database is error
+08:58:47 Updata_tableWidget_Work open database is error
+08:58:47 Door_State open database is error
+08:58:48 Updata_Area_List open database is error!
+08:58:48  Get_Area_ID open database is error.
+08:58:48 Updata_tableWidget_Alarm open database is error
+08:58:48 Updata_tableWidget_Work open database is error
+08:58:48 Door_State open database is error
+08:58:48 IsAreaAlarm open database is error!
+08:58:48  sm_alarm_table open database is error.
+08:58:48 HomePageAlarmInfo open database is error!
+08:58:49 Updata_Area_List open database is error!
+08:58:49  Get_Area_ID open database is error.
+08:58:49 Updata_tableWidget_Alarm open database is error
+08:58:49 Updata_tableWidget_Work open database is error
+08:58:49 Door_State open database is error
+08:58:50 Updata_Area_List open database is error!
+08:58:50  Get_Area_ID open database is error.
+08:58:50 Updata_tableWidget_Alarm open database is error
+08:58:50 Updata_tableWidget_Work open database is error
+08:58:50 Door_State open database is error
+08:58:51 Updata_Area_List open database is error!
+08:58:51  Get_Area_ID open database is error.
+08:58:51 Updata_tableWidget_Alarm open database is error
+08:58:51 Updata_tableWidget_Work open database is error
+08:58:51 Door_State open database is error
+08:58:52 Updata_Area_List open database is error!
+08:58:52  Get_Area_ID open database is error.
+08:58:52 Updata_tableWidget_Alarm open database is error
+08:58:52 Updata_tableWidget_Work open database is error
+08:58:52 Door_State open database is error
+08:58:53  sm_alarm_table open database is success.
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室,告警：人员代办
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到4人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室,告警：人员代办
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室,告警：设备扫码错误
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到2人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室,告警：设备扫码错误
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室,告警：人员代办
+08:58:53 ,胡坚 疑似在 6千伏工作Ⅳ段配电室 无票作业!
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室,告警：人员代办
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室,告警：设备扫码错误
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室,告警：设备扫码错误
+08:58:53 6千伏工作Ⅳ段配电室,告警：设备扫码错误
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室,告警：人员代办
+08:58:53 6千伏工作Ⅳ段配电室,告警：设备扫码错误
+08:58:53 6千伏工作Ⅳ段配电室,告警：人员代办
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到2人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到2人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:53 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:54 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:54 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:54 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:54 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:54 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:54 ,张梦莹 疑似在 6千伏工作Ⅳ段配电室 无票作业!
+08:58:54 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:54 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:54 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:54 6千伏工作Ⅳ段配电室,告警：人员代办
+08:58:54 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:54 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:54 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0
+08:58:54 6千伏工作Ⅳ段配电室,告警：设备扫码错误
+08:58:54 ,吴扬广 疑似在 6千伏工作Ⅳ段配电室附近 无票作业!
+08:58:54 6千伏工作Ⅳ段配电室附近,#4机6千伏工作Ⅳ段配电室附近未带卡告警,检测到1人通过，卡片数为:0

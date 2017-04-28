@@ -1,0 +1,7 @@
+00:32:29 HostName = 127.0.0.1
+00:32:29 HostPort = 3306
+00:32:29 UserName = root
+00:32:29 UserPassword = root
+00:32:29 DbType = QMYSQL
+00:32:29 Databasename = test
+00:32:30 欢迎进入大唐湘潭电厂作业安全智能管控系统!
