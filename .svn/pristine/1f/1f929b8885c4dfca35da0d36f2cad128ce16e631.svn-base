@@ -1,9 +1,0 @@
-[General]
-Application=XTDC
-HostName=10.232.31.156
-HostPort=3306
-UserName=root
-UserPassword=root
-Databasename=wsmc
-DbType=QMYSQL
-AlarmBufferMaxSize=1000

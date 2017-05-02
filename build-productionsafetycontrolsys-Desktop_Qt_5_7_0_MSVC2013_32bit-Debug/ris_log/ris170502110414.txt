@@ -1,0 +1,8 @@
+11:04:15 HostName = 10.232.31.156
+11:04:15 HostPort = 3306
+11:04:15 UserName = root
+11:04:15 UserPassword = root
+11:04:15 DbType = QMYSQL
+11:04:15 Databasename = wsmc
+11:04:19 欢迎进入大唐湘潭电厂作业安全智能管控系统!
+11:04:44 大唐湘潭电厂作业安全智能管控系统数据库连接失???请检查数据库配置文件!
